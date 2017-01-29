@@ -51,7 +51,7 @@ body
 
 #education
 {
-	background: url(file:///C:/Web%20Development/Resume/img/Education2.jpg) center center;
+	background: url(img/Education2.jpg) center center;
 	color: #ffffff;
 }
 
@@ -173,7 +173,7 @@ body
 
 #skills
 {
-	background-image: url(file:///C:/Web%20Development/Resume/img/Skills2.jpg);
+	background-image: url(/img/Skills2.jpg);
 	background-position: bottom;
 	color: #cbffc6;
 }
@@ -250,7 +250,7 @@ body
 
 #tech-ex
 {
-	background-image: url(file:///C:/Web%20Development/Resume/img/Technical1.png);
+	background-image: url(img/Technical1.png);
 	color: #b0cee8;
 }
 
@@ -308,7 +308,7 @@ body
 
 #welcome
 {
-	background-image: url(file:///C:/Web%20Development/Resume/img/Intro2.png);
+	background-image: url(img/Intro2.png);
 }
 
 
