@@ -87,7 +87,7 @@ body
 
 #hobbies
 {
-	background-image: url(https://scontent.fdel1-2.fna.fbcdn.net/v/t31.0-8/966143_384482794991658_494533290_o.jpg?oh=9536afae033b9582fddde003bb260162&oe=590D451E);
+	background-image: url(/img/Hobbies.jpg);
 	background-size: contain;
 	background-position: center;
 }
@@ -308,7 +308,7 @@ body
 
 #welcome
 {
-	background-image: url(/img/Intro2.png);
+	background-image: url(/img/Intro2.jpg);
 }
 
 
