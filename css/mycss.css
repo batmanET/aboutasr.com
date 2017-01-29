@@ -1,0 +1,359 @@
+
+
+abbr[title]	        /* removes underline from abbr tag*/
+{
+  border-bottom: none;
+  cursor: inherit;
+  text-decoration: none;
+}
+
+
+.area				/*div with background image and proper height*/
+{	
+	min-height: 100vh;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+body
+{
+	min-height: 100vh; 														
+	width: 100%;
+	font-size: 1.7em;
+	color: #000000;
+	font-family: 'Raleway', sans-serif;
+}
+
+
+.border-rl
+{
+	border-right: 1px solid #dad5e0;
+	border-left: 1px solid #dad5e0;
+}
+
+
+#college
+{
+	margin-top: 13vh;
+}
+
+
+.contact
+{
+	color: #ffffff;
+	padding-top: 30vh;
+	font-family: 'Raleway', sans-serif;    /* 'Josefin Slab', serif */
+	font-size: 1.1em;
+}
+
+
+#education
+{
+	background: url(file:///C:/Web%20Development/Resume/img/Education2.jpg) center center;
+	color: #ffffff;
+}
+
+
+#education .transparent
+{
+	background: rgba(0,0,0,0.5);
+	border-radius: 0.25em;
+}
+
+
+#education h1
+{
+	color: #3f3551;
+	margin-top: 15vh;
+	text-decoration: none;
+	font-size: 3em;
+}
+
+#education h1 span
+{
+	background: rgba(255,255,255,0.5);
+	border-radius: 0.5em;
+	padding: 0.5em;
+	display: inline-block;
+}
+
+#head
+{
+	margin-top: 10vh;
+}
+
+
+#hobbies
+{
+	background-image: url(https://scontent.fdel1-2.fna.fbcdn.net/v/t31.0-8/966143_384482794991658_494533290_o.jpg?oh=9536afae033b9582fddde003bb260162&oe=590D451E);
+	background-size: contain;
+	background-position: center;
+}
+
+
+#hobbies h1
+{
+	color: #ad5656;
+	text-decoration: none;
+	font-size: 3em;
+}
+
+
+#hobbies h1 span
+{
+	background: rgba(219,219,219,0.6);
+	border-radius: 0.5em;
+	padding: 0.5em;
+	display: inline-block;
+}
+
+
+#hobbies-info
+{
+	margin-top: 18vh;
+}
+
+
+#manga
+{
+	background: rgba(0,0,0,0);
+}
+
+
+#manga-info
+{
+	background: rgba(255,255,255,1);
+}
+
+.modified-dt
+{
+	list-style-type: disc;
+	display: list-item;
+}
+
+
+.name
+{
+	color: #ffffff;
+	font-family: 'Raleway', sans-serif;       /*'Old Standard TT', serif*/
+	padding-top: 42vh;
+	font-size: 3.2em;
+}
+
+
+.name span
+{
+	font-weight: bold;
+	display: inline-block;
+	
+}
+
+
+.row
+{
+	margin-left: 3vw;
+	margin-right: 3vw;
+}
+
+
+#school
+{
+	margin-top: 14.5vh;
+}
+
+
+#school-info
+{
+	margin-bottom: 2.5vh;
+}
+
+
+
+#skills
+{
+	background-image: url(file:///C:/Web%20Development/Resume/img/Skills2.jpg);
+	background-position: bottom;
+	color: #cbffc6;
+}
+
+
+#skills h1
+{
+	color: #fffa77;
+	text-decoration: none;
+	font-size: 3em;
+	margin-top: 16vh;
+}
+
+
+#skills h1 span
+{
+	
+	background: rgba(61,61,61,0.65);
+	border-radius: 0.5em;
+	padding: 0.75em;
+	display: inline-block;
+}
+
+
+#skill-info
+{
+	padding: 0 6% 0 15%;
+}
+
+
+
+#skills .row
+{
+	margin-top: 25vh;
+	margin-left: 0vw;
+	margin-right: 0vw;
+	border: 1px solid #606060;
+	padding: 3em;
+
+}
+
+
+#skills .transparent
+{
+	background: rgba(61,61,61,.5);
+	border-radius: 0.5em;
+}
+
+
+#skills ul
+{
+	background: rgba(61,61,61,0.65);
+	border-radius: 0.5em;
+}
+
+
+.specifics
+{
+	font-weight: bold;
+	color: #ce4848;
+	text-decoration-style: wavy;
+	text-decoration: underline;
+}
+
+
+.table-responsive
+{
+	border-top: none; 
+	border-right: none;
+	border-bottom: 1px solid #dad5e0;
+	border-left: none;
+}
+
+
+#tech-ex
+{
+	background-image: url(file:///C:/Web%20Development/Resume/img/Technical1.png);
+	color: #b0cee8;
+}
+
+
+#tech-ex  h1
+{
+	color: #003447;
+	margin-top: 15vh;
+	text-decoration: none;
+	font-size: 3em;
+	padding-left: 2.8vw;
+}
+
+
+#tech-ex  h1 span
+{
+	background: rgba(255,255,255,0.25);
+	border-radius: 0.5em;
+	padding: 0.5em;
+	display: inline-block;
+}
+
+
+#tech-ex .transparent
+{
+	background: rgba(0,0,0,0.5);
+	border-radius: 0.5em;
+}
+
+
+#tech-info
+{
+	margin-top: 10vh;
+	margin-bottom: 2.5vh;
+}
+
+
+#tech-info dt
+{
+	margin: 2vw 0 0 2.5vw;
+}
+
+
+#tech-info dd
+{
+	margin: 0 0 0 3.5vw;
+}
+
+
+.transparent
+{
+	background: rgba(255,255,255,0.15);
+}
+
+
+#welcome
+{
+	background-image: url(file:///C:/Web%20Development/Resume/img/Intro2.png);
+}
+
+
+
+
+
+@media screen and (max-width: 480px)
+{
+	body
+	{
+	font-size: 2.3vmax;
+	}
+
+	.contact
+	{
+		font-size: 2.35vmax;
+	}
+
+	#education h1
+	{
+		font-size: 6vmax;
+	}
+    
+	#hobbies h1
+	{	
+		font-size: 6vmax;
+	}
+
+	.name
+	{
+		font-size: 7vmax;
+	}
+
+	#skills h1
+	{
+		font-size: 6vmax;
+	}
+
+	#tech-ex  h1
+	{
+		font-size: 6vmax;
+	}
+
+	#tech-info h3
+	{
+		font-size:3vmax;
+	}
+}
