@@ -51,7 +51,7 @@ body
 
 #education
 {
-	background: url(img/Education2.jpg) center center;
+	background: url(/img/Education2.jpg) center center;
 	color: #ffffff;
 }
 
@@ -250,7 +250,7 @@ body
 
 #tech-ex
 {
-	background-image: url(img/Technical1.png);
+	background-image: url(/img/Technical1.png);
 	color: #b0cee8;
 }
 
@@ -308,7 +308,7 @@ body
 
 #welcome
 {
-	background-image: url(img/Intro2.png);
+	background-image: url(/img/Intro2.png);
 }
 
 
