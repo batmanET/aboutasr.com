@@ -325,11 +325,18 @@ body
 	.contact
 	{
 		font-size: 2.35vmax;
+		padding-top: 15vh;
+	}
+
+	#college
+	{
+		margin-top: 2.5vh;
 	}
 
 	#education h1
 	{
 		font-size: 6vmax;
+		margin-top: 5vh;
 	}
     
 	#hobbies h1
@@ -337,23 +344,95 @@ body
 		font-size: 6vmax;
 	}
 
+	#hobbies-info
+	{	
+		margin-top: 5vh;
+	}
+
+	#head
+	{
+		margin-top: 5vh;
+	}
+
+	#home
+	{
+		padding-top: 3vh;
+	}
+
+
 	.name
 	{
 		font-size: 7vmax;
+		font-family: 'Raleway', sans-serif;
+		padding-top: 25vh;
 	}
+
+	#school
+	{
+		margin-top: 5.5vh;
+	}
+
+
+	#school-info
+	{
+		margin-bottom: 1.5vh;
+	}
+	
 
 	#skills h1
 	{
 		font-size: 6vmax;
+		margin-top: 5vh;
+	}
+
+	#skills .row
+	{
+		margin-top: 7vh;
+		margin-left: 0vw;
+		margin-right: 0vw;
+		border: 1px solid #606060;
+		padding: 3em;
+	}
+
+	#skill-info
+	{
+		margin-top: 3vh;
+		margin-left: -3vw;
+		padding: 0 6% 0 15%;
 	}
 
 	#tech-ex  h1
 	{
 		font-size: 6vmax;
+		margin-top: 5vh;
+		text-align: center;
+	}
+
+	#tech-info
+	{
+		margin-top: 8vh;
+		margin-bottom: 1.5vh;
 	}
 
 	#tech-info h3
 	{
 		font-size:3vmax;
 	}
+
+	#tech-info dl
+	{
+		margin-left: -3vmax;
+	}
+
+	#tech-info dt
+	{
+		margin: 2vh 0 0 0.5vw;
+	}
+
+
+	#tech-info dd
+	{
+		margin: 0 0 0 2.5vw;
+	}
+
 }
