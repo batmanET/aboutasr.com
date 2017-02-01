@@ -170,6 +170,11 @@ body
 }
 
 
+#sketches:hover
+{
+	font-weight: bold;
+}
+
 
 #skills
 {
